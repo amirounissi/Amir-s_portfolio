@@ -29,4 +29,4 @@ You can explore my full portfolio and connect with me below:
 *To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
 
 - #MakeoverMonday 2020 Week 32 | Benefits of Working from Home: 
-![salesdashboard](visuals/sales_dashboard.png)  
+![salesdashboard](visuals/sales-dashboard.png)  
