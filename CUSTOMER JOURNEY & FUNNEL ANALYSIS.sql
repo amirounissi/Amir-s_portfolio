@@ -6,7 +6,6 @@
 
 -- =============================================
 -- CUSTOMER FUNNEL ANALYSIS
--- Advanced Funnel with Conversion Rates Between Steps
 -- =============================================
 
 WITH funnel_steps AS (
