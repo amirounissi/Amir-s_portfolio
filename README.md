@@ -14,6 +14,8 @@ You can explore my full portfolio and connect with me below:
   - Financial transactions Dataset: Data Exploration  <br />
 *Review the SQL Script:* **[HERE](https://github.com/amirounissi/Amir-s_portfolio/blob/main/Financial%20transactions%20data%20exploration.sql)**<br />
 
+  - Customer journey & funnel analysis: Data Exploration <br />
+  *Review the SQL Script:* **[HERE](https://github.com/amirounissi/Amir-s_portfolio/blob/main/CUSTOMER%20JOURNEY%20%26%20FUNNEL%20ANALYSIS.sql)**<br />
 
 
 
