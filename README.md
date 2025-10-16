@@ -1,4 +1,3 @@
-# Amir's_portfolio
 ## **Projects portfolio**
 
  Welcome to my **Portfolio** — showcasing projects developed using **SQL, Python, PowerBI, Excel, and Hadoop**.  
